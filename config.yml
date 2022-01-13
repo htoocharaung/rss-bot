@@ -14,4 +14,5 @@ mysql:
 sqlite:
   path: ./data.db
 
-allowed_users : 1571283083
+allowed_users : 
+  - 1571283083
