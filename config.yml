@@ -13,3 +13,5 @@ mysql:
   database: heroku_b9d6754d3fff4be
 sqlite:
   path: ./data.db
+
+allowed_users : 1571283083
